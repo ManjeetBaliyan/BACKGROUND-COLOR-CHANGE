@@ -1,0 +1,18 @@
+.button {
+  background-color: red;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 17px;
+  color: white;
+  border-radius: 26px;
+  width: 131px;
+  padding: 16px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  filter: drop-shadow(5px 5px 2px #555);
+}
+.button:hover {
+  font-size: 18px;
+  color: black;
+}
